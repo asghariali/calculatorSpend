@@ -1,1 +1,3 @@
-# calculator-spend
+# Create application
+
+`create-reat-app`
